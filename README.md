@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Atharvamhatre149 
-- 👀 I’m interested in problem solving and web devlopment
-- 🌱 I’m currently learning MERN stack and DSA
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me https://www.linkedin.com/in/atharva-mhatre-5143b1215/
+- 💻 Passionate problem solver and web developer with a focus on MERN stack and data structures and algorithms
+- 🌱 Learning and Growing with MERN Stack and DSA
+- 💬 Continuously learning and seeking opportunities to collaborate on new and exciting projects
+- 💼 Experience with HTML, CSS, JavaScript, React, Node.js and MongoDB
+- 📚 Always Learning and Adapting to new technologies
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/atharva-mhatre-5143b1215/
 
 <!---
 Atharvamhatre149/Atharvamhatre149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
